@@ -3,7 +3,7 @@ Simon Moor
 
 ## Einleitung
 
-Wir mussten ein Projekt erstellen welches wie ein Charakterauswal gestalten ist und am Ende mussten wir die verschiedenen entscheidungen in einer Text form darstellen.
+Im Modul 133 geht es Hauptsächlich um Webseiten. Diese Webseiten haben wir mit hilfe xhtml, JSF und Beans gebaut.
 
 ## Was habe ich gelernt?
 
@@ -24,8 +24,8 @@ Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Die einarbeitung in das Modul troz anfänglichen schwierigkeiten war 
+👍 Die einarbeitung in das Modul troz anfänglichen schwierigkeiten ist sehr reibungslos abgelaufen.
 
 👎 Ich habe leider den Erstenblock welcher vielleicht der Wichtiste ist verpasst habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Eine Optimierungsidee wäre vielleicht am Morgen vor dem Unterricht etwas zu essen, damit ich nicht die erste Pause dafür brauche um etwas zu Essen.
