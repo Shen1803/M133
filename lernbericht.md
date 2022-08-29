@@ -24,8 +24,8 @@ Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Die einarbeitung in das Modul troz anfänglichen schwierigkeiten war 
 
-👎 und etwas, was nicht gut lief.
+👎 Ich habe leider den Erstenblock welcher vielleicht der Wichtiste ist verpasst habe.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
