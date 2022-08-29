@@ -11,7 +11,12 @@ Einerseit wie man ein Bild einfügt und andererseit wie man dann diese Bild als 
 
 ## Beschreibung
 
-
+```Jave
+<h:commandLink action="post.xhtml">
+                <h:graphicImage value="rescources/img/h.png" width="200"></h:graphicImage>
+                <f:setPropertyActionListener value="h" target="#{helloManagedBean.hautfarbe}"></f:setPropertyActionListener>
+            </h:commandLink>
+            ```Java
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
