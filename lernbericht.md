@@ -3,7 +3,7 @@ Simon Moor
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir mussten ein Projekt erstellen welches wie ein Charakterauswal gestalten ist und am Ende mussten wir die verschiedenen entscheidungen in einer Text form darstellen.
 
 ## Was habe ich gelernt?
 
