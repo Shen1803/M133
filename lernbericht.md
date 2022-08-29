@@ -20,7 +20,7 @@ Einerseit wie man ein Bild einfügt und andererseit wie man dann diese Bild als 
  ![Screenshot (3)](https://user-images.githubusercontent.com/110914364/187161011-3b316b1f-58dd-4587-b988-34d57e5f5889.png)
 
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es auf der Webseite sieht und im Bild darunter sieht man wie es dann schlussendlich aus.
 
 # Reflektion zum Arbeitsprozess
 
